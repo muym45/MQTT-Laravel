@@ -60,7 +60,7 @@
             <span>0°</span>
             <span>90°</span>
             <span>180°</span>
-          </div>
+          </div>    
         </div>
         <div>
           <label class="block text-gray-700 font-medium mb-2"><i class="fas fa-font mr-2"></i>LCD Text</label>
